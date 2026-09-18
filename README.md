@@ -1,4 +1,4 @@
-# NeerNetra (नीर नेत्र, "the water eye")
+# NeerNetra ("the water eye")
 
 Village-level early warning for water-borne illness (cholera, typhoid, diarrhoeal disease, hepatitis A/E).
 Track: **Social Impact — Community Water-Borne Illness & Outbreak Early Warning**.
